@@ -29,11 +29,6 @@ body{
   padding: 10px;
 }
 
-.div-img-html5png{
-  width: 30px;
-  height: 30px;
-}
-
 .post-header img{
   width: 30px;
   height: 30px;
@@ -61,10 +56,6 @@ body{
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-}
-
-.post-icons img{
-  width: 25px;
 }
 
 .post-body {
